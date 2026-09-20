@@ -25,5 +25,5 @@ Soy una desarrolladora de software apasionada por la creación de soluciones tec
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### 📫 Conecta conmigo
-- **LinkedIn:** [Perfil de Maria Magdalena](https://www.linkedin.com/in/AQUI-PON-TU-ENLACE-CORTO)
+- **LinkedIn:** [Perfil de Maria Magdalena](https://www.linkedin.com/in/maria-magdalena-parraga-castro-4ba088b5/)
 - **Email:** malenap_90@hotmail.com
